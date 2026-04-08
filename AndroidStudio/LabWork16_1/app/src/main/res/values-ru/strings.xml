@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LabWork16_1</string>
+    <string name="search">Поиск</string>
+
+    <string name="menu">Меню</string>
+
+    <string name="Developers">© %1$s. Все права защищены. %d</string>
+
+    <string-array name="nameDevelopers">
+        <item>Poeditel</item>
+        <item>ReyRom</item>
+        <item>Cava51</item>
+    </string-array>
+
+    <plurals name="hour">
+        <item quantity="one">%d час</item>
+        <item quantity="two">%d часа</item>
+        <item quantity="other">%d часов</item>
+    </plurals>
+
+    <plurals name="minute">
+        <item quantity="one">%d минута</item>
+        <item quantity="two">%d минуты</item>
+        <item quantity="other">%d минут</item>
+    </plurals>
+</resources>

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Resources</string>
+    <string name="message">Hello %1$s</string>
+
+    <plurals name="cats">
+        <item quantity="one">%d cat</item>
+        <item quantity="other">%d cats</item>
+    </plurals>
+
+    <string-array name="languages">
+        <item>Russian</item>
+        <item>English</item>
+        <item>German</item>
+    </string-array>
+</resources>
